@@ -15,7 +15,7 @@ namespace McvNetAplication.Controllers
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "Your application description page.";
+			ViewBag.Message = "Hello Dragos.";
 
 			return View();
 		}
